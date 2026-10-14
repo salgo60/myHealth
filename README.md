@@ -28,5 +28,18 @@ Fundera över hur olika delar kan kopplas ihop
       * skriver Sömn
 6. [Mathem](https://www.mathem.se) ?
    * skulle vilja kunna jmf vad som köpts med vad som finns kvar i kylskåpet
+   *  * **[HelloFresh](https://www.hellofresh.se) – måltider och recept**
+   * skriver till **Apple Hälsa:** 
+       * Dietär energi (kalorier)
+       * Kolesterol
+       * Socker
+       * Fiber
+       * Kolhydrater
+       * Mättat fett
+       * Natrium
+       * Protein
+       * Totalt fett
+  * **Läser från Apple Hälsa:** ingen läsbehörighet visas i skärmbilden.
+  * **Att kontrollera:** Läsewr Foodvisor detta data?
 7. [HelloFresh](https://www.hellofresh.com)
    - Skulle vilja kunna s kalori och näring på levererade maträtter
