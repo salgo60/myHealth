@@ -48,3 +48,8 @@ Fundera över hur olika delar kan kopplas ihop
   * **Att kontrollera:** Läsewr Foodvisor detta data?
 7. [HelloFresh](https://www.hellofresh.com)
    - Skulle vilja kunna s kalori och näring på levererade maträtter
+
+### Länkar
+* [Best Fitness Apps That Sync with Apple Health (2026)](https://www.corahealth.app/blog/best-apple-health-fitness-apps)
+* [Best Fitness Apps That Work With Apple Watch in 2026](https://www.healthbenefitstimes.com/best-fitness-apps-that-work-with-apple-watch/)
+* 
