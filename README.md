@@ -7,7 +7,9 @@ Fundera över hur olika delar kan kopplas ihop
   * dit skriver Withings, Runkeeper 
 2. Withings
    * kopplar ihop [WiFi-våg](https://www.clasohlson.com/se/Withings-Body-Smart-badrumsvag-med-kroppsanalys,-WiFi/p/44-5361-2)  och [BPM Vision](https://www.withings.com/en-us/products/bpm-vision) -
-   * Data kan hämtas från Withings via download email [Withings App - Online Dashboard - Exporting my data](https://support.withings.com/hc/en-us/articles/201491377-Withings-App-Online-Dashboard-Exporting-my-data)
+   * Skriver till Apple health men inte kommentarer på olika mätningar
+   * data med kommentarer kan hämtas från Withings via download email [Withings App - Online Dashboard - Exporting my data](https://support.withings.com/hc/en-us/articles/201491377-Withings-App-Online-Dashboard-Exporting-my-data)
+     * betyder att jag kan spåra mätning blodtryck innan medicin, efter medicin, kväll och höger/vänster arm som skrivs som kommentar som ChatGPT tolkar 
 3. Foodvisor - hanterar målrider
    - [Foodvisor Exporter](https://github.com/thm01/foodvisor-exporter) - är ett inofficiellt Pythonverktyg som exporterar din Foodvisor-dagbok till Excel, CSV och JSON.
       - Hämtar måltider, livsmedel, mängder, näringsvärden, vatten och tillgängliga aktiviteter för en vald period.
